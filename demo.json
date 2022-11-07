@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "imgUrl":
+        "https://img.dominos.vn/MENU-PC_Khoai-Ta%CC%82y-Pho%CC%82-Mai-%C4%90u%CC%81t-Lo%CC%80.jpg",
+      "title": "Khoai Tây Phô Mai Đút Lò",
+      "price": "79000"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://img.dominos.vn/Choco-pizza.jpg",
+      "title": "Pizza Sô-Cô-La",
+      "price": "69000"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://img.dominos.vn/pasta-h%E1%BA%A3i-s%E1%BA%A3n.jpg",
+      "title": "Mỳ Ý Hải Sản Đút Lò",
+      "price": "89000"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://img.dominos.vn/pasta-bo-bam.jpg",
+      "title": "Mỳ Ý Bò Bằm Đút Lò",
+      "price": "89000"
+    },
+    {
+      "id": 5,
+      "imgUrl":
+        "https://img.dominos.vn/MENU-PC_Ca%CC%81nh-Ga%CC%80-BBQ-Kie%CC%82%CC%89u-My%CC%83-.jpg",
+      "title": "Cánh Gà BBQ Kiểu Mỹ (4 miếng)",
+      "price": "89000"
+    },
+    {
+      "id": 6,
+      "imgUrl":
+        "https://img.dominos.vn/MENU-PC_Xu%CC%81c-Xi%CC%81ch-Xo%CC%82ng-Kho%CC%81i-%C4%90u%CC%81t-Lo%CC%80+-+Copy.jpg",
+      "title": "Xúc Xích Xông Khói Đút Lò (4 miếng)",
+      "price": "49000"
+    }
+  ]
